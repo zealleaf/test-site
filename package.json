@@ -1,0 +1,23 @@
+{
+  "name": "test-site",
+  "version": "1.0.6",
+  "description": "🧪 test site",
+  "keywords": [],
+  "homepage": "https://github.com/zealleaf/test-site#readme",
+  "bugs": {
+    "url": "https://github.com/zealleaf/test-site/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zealleaf/test-site.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "bumpp package.json"
+  },
+  "devDependencies": {
+    "bumpp": "^8.2.1"
+  }
+}
