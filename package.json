@@ -1,6 +1,6 @@
 {
   "name": "test-site",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "🧪 test site",
   "keywords": [],
   "homepage": "https://github.com/zealleaf/test-site#readme",
@@ -15,7 +15,7 @@
   "author": "",
   "main": "index.js",
   "scripts": {
-    "release": "bumpp package.json"
+    "release": "bumpp"
   },
   "devDependencies": {
     "bumpp": "^8.2.1"
